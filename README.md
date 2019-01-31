@@ -1,4 +1,4 @@
-# rasool_saman_test
+# saman_rasool_test
 There are 2 directories in the project,
 src: Contains source code for all three questions
   QuestionA.py
